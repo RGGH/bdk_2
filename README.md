@@ -1,3 +1,4 @@
+[![Rust](https://github.com/RGGH/bdk_2/actions/workflows/rust.yml/badge.svg)](https://github.com/RGGH/bdk_2/actions/workflows/rust.yml)
 # bdk_2
 This code
 
