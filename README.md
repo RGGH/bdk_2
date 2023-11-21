@@ -1,5 +1,5 @@
 # bdk_2
-more BDK
+This code
 
 - creates a wallet
 - creates a transaction
